@@ -33,10 +33,10 @@ When brought back online:
 ## Installation
 Repository at: https://github.com/rich30041/PWA-Homework-Online-Offline-Budget-Trackers
 
-xxx Deployed live at: https://obscure-stream-26130.herokuapp.com/
+Deployed live at: https://serene-island-68763.herokuapp.com/
 
 ## Usage
-xxx 1. Navigate to https://obscure-stream-26130.herokuapp.com/
+1. Navigate to https://serene-island-68763.herokuapp.com/
 2. Add withdrawals and deposits as desired
 3. Right click, and choose Inspect. Navigate to Application, and from there to Service Workers.
 4. Set service worker to offline, and reload. You are now working offline.
@@ -53,4 +53,4 @@ xxx 1. Navigate to https://obscure-stream-26130.herokuapp.com/
 - [Project Repository](https://github.com/rich30041/PWA-Homework-Online-Offline-Budget-Trackers)
 
 ## Heroku
-xxx - [Heroku App Link](https://fast-ridge-97400.herokuapp.com)
+- [Heroku App Link](https://serene-island-68763.herokuapp.com/)
